@@ -20,7 +20,7 @@ Random Quiz Maker: There're 3 templates as optional themes. That means you can c
 (If you want to show or hide either of them. You can just go to the "ControlPanel.php" and make it true or false)
 
 ** Requirements:
-It's only PHP code without any plugins. So, you don't need anything else to run it. Just download the source code, update your own database and upload it to your hosting.
+- It's only PHP code without any plugins. So, you don't need anything else to run it. Just download the source code, update your own database and upload it to your hosting.
 
 ** Instructions:
 1. There are 3 templates, you can choose one of them to upload.
