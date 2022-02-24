@@ -7,16 +7,16 @@ Random Quiz Maker: There're 3 templates as optional themes. That means you can c
 3- Easy to link with the database ( MySQL, etc ).
 4- You can make a question with 3 or 4 options or you can even make it 100.
 5- Easy control panel to customize your quiz.
-6- The style can be changed completely for each page. That makes the quiz appropriate to your website
+6- The style can be changed completely for each page. That makes the quiz appropriate to your website.
 7- You can easily custom style for question and options, or make style for each option.
 8- Works with all devices screens.
 9- High-security code using PHP.
 10- Define any number of question.
 
 ** Other Features:
-12- You can show or hide the score in the quiz.
-13- You can show or hide the question number beside the question in the quiz
-14- You can edit a completely style for each both.
+11- You can show or hide the score in the quiz.
+12- You can show or hide the question number beside the question in the quiz.
+13- You can edit a completely style for each both.
 (If you want to show or hide either of them. You can just go to the "ControlPanel.php" and make it true or false)
 
 ** Requirements:
