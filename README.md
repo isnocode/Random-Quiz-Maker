@@ -14,9 +14,9 @@ Random Quiz Maker: There're 3 templates as optional themes. That means you can c
 10. Define any number of question.
 
 ** Other Features:
-11. You can show or hide the score in the quiz.
-12. You can show or hide the question number beside the question in the quiz.
-13. You can edit a completely style for each both.
+1. You can show or hide the score in the quiz.
+2. You can show or hide the question number beside the question in the quiz.
+3. You can edit a completely style for each both.
 (If you want to show or hide either of them. You can just go to the "ControlPanel.php" and make it true or false)
 
 ** Requirements:
