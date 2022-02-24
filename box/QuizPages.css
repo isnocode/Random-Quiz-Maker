@@ -1,0 +1,154 @@
+
+button {
+   border: none;
+   height: 60px;
+   outline: none;
+   min-width: 220px;
+}
+
+
+
+
+
+.Background_Box {
+   background: #fcfcfc;
+   min-height: 600px;
+   box-shadow: 5px 5px 15px 3px rgba(149,165,166,0.65);
+}
+
+
+
+
+
+/* StartPage Style  */
+.StartPage {
+   font-family: 'Montserrat', sans-serif;
+   height: 100vh;
+   text-align: center;
+}
+.StartPage .title{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+   font-size: 32px;
+   padding: 50px;
+}
+.StartButton {
+   border-radius: 4px;
+   font-size: 24px;
+   width: 300px;
+   height: 80px;
+   background: #fcfcfc;
+   border: 2px solid black;
+   color: #34495e;
+      transition: 0.3s;
+}
+.StartButton:hover {
+   width: 400px;
+   height: 100px;
+   font-size: 28px;
+   background: #34495e;
+   color: white;
+
+
+}
+
+/* ///////////////  */
+
+
+
+/* QuizPage Style  */
+.QuizPage {
+   font-family: 'Montserrat', sans-serif;
+   min-height: 100vh;
+}
+.quiz_box {
+   padding: 20px;
+   margin-top: 100px;
+}
+/* Score Style  */
+.ScoreMassage {
+   position: absolute;
+   top: 0px;
+   margin: 20px;
+}
+
+/* Question Style  */
+.Number_Beside_question {
+   color: #3A6086;
+   font-size: 20px;
+   position: relative;
+   bottom: 8px;
+}
+.question {
+   font-family: 'Montserrat', sans-serif;
+   color: #34495e;
+   font-size: 25px;
+   text-align: center;
+   position: relative;
+   font-weight: 700;
+   margin-bottom: 100px;
+}
+/* ///////////////  */
+   
+
+
+   
+/* options Style  */
+
+/* this is a div for All options */
+.Buttons_Div {
+  
+}
+/* you can change all options style */
+.options {
+   border-radius: 4px;
+   font-size: 24px;
+   margin: 10px;
+   background: #fcfcfc;
+   border: 2px solid black;
+   color: #34495e;
+   box-shadow: 5px 5px 30px 10px rgba(149,165,166,0.3);
+}
+.options:hover {
+   background: #34495e;
+   color: white;
+   box-shadow: 5px 5px 30px 10px rgba(149,165,166,1);
+}
+
+
+/*or you can make a custom style for each button */
+
+/* ///////////////  */
+
+
+
+
+@media only screen and (min-width: 1000px) {
+   .Number_Beside_question {
+      font-size: 22px;
+   }
+   .question {
+      font-size: 34px;
+   }
+}
+
+
+
+.EndPage {
+   font-family: 'Montserrat', sans-serif;
+   height: 100vh;
+   text-align: center;
+}
+.percent {
+   font-size: 80px;
+   color: green;
+}
+.score {
+   color: green;
+}
+@media only screen and (min-width: 400px) {
+   .percent {
+      font-size: 100px;
+      color: green;
+   }
+}

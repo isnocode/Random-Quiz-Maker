@@ -1,0 +1,119 @@
+
+button {
+   border: none;
+   width: 130px;
+   height: 60px;
+   outline: none;
+   min-width: 180px;
+   font-weight: 700;
+}
+
+
+
+
+
+
+
+
+/* StartPage Style  */
+.StartPage {
+   font-family: 'Montserrat', sans-serif;
+   height: 100vh;
+   text-align: center;
+}
+
+.StartPage .title{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 500;
+   font-size: 38px;
+}
+.StartPage .rules {
+   margin: 30px 0px;
+}
+.StartPage .rules h3{
+   font-size: 24px;
+   margin: 15px;
+}
+.StartButton {
+   font-size: 24px;
+   border-radius: 4px;
+   background: #3498db;
+   color: white;
+}
+/* ///////////////  */
+
+
+
+
+
+
+
+/* QuizPage Style  */
+.QuizPage {
+   font-family: 'Montserrat', sans-serif;
+   min-height: 100vh;
+}
+.Quiz_form {
+   min-height: 100vh;
+   height: 100%;
+}
+.quiz_box {
+   padding: 20px;
+   margin-top: 100px;
+   max-width: 400px;
+}
+/* Score Style  */
+.ScoreMassage {
+   position: absolute;
+   top: 0px;
+   margin: 20px;
+}
+
+/* Question Style  */
+.Number_Beside_question {
+   color: #000;
+}
+.question {
+   font-family: 'Montserrat', sans-serif;
+   color: #9b59b6;
+   font-size: 26px;
+   text-align: center;
+   margin-bottom: 100px;
+}
+/* ///////////////  */
+   
+
+
+   
+/* options Style  */
+
+/* this is a div for All options */
+.Buttons_Div {
+  
+}
+/* you can change all options style */
+.options {
+   font-family: 'Montserrat', sans-serif;
+   border-radius: 4px;
+   margin: 10px;
+   color: blueviolet;
+   font-size: 20px;
+}
+/*or you can make a custom style for each button */
+.option1 {
+   color: white;
+   background: #3498db;
+}
+/* ///////////////  */
+
+
+
+
+
+
+
+.EndPage {
+   font-family: 'Montserrat', sans-serif;
+   height: 100vh;
+   text-align: center;
+}
